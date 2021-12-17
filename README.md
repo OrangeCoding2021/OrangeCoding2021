@@ -1,10 +1,9 @@
 👋 Hi, I’m @OrangeCoding2021
 
-I just recently graduated from my homeschooled highschool career with a 4.0+ GPA and a certificate in Python. 
+I graduated Highschooler as a Homeschooler with a 4.0+ GPA. I also graduated with a certificate in Python from a community college. 
 I have grown up around computers all my life but have never gotten too deep into them.
-I am trying to build up a programming portfolio. 
-My experiences in programming inclued the aforementioned Python along with very little
-experience with Java, Lua, HTML, and Powershell.
+I am now trying to build up my programming portfolio as I learn more about programming
+I have the most experience in Python followed by Java. I have also gained some experience in HTML, Lua, and Scratch.
 
 
 💞️ I’m looking to potentially collaborate on open source projects that can help me gain more coding experience
