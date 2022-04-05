@@ -1,11 +1,10 @@
-👋 Hi, I’m @OrangeCoding2021
+Hello there! I am OrangeCoding2021. I have been casually coding since around 2016. I am hoping to get more serious about programming as I continue my education towards a BS in CSC.
 
-I graduated Highschooler as a Homeschooler with a 4.0+ GPA in highschool. I also gained a certificate in Python from a community college. 
+I graduated Highschool as a Homeschooler with a 4.0+ GPA in my highschool. I also gained a certificate in Python from a community college. 
 I have grown up around computers all my life but have never gotten too deep into them.
 I am now trying to build up my programming portfolio as I learn more about programming
 
-Most of my coding experience has been in Python. I have had some experience in Java and am now currently in a Advanced Java course. I am also currently going to be learning C++ and Assembly Language.
-
+Most of my coding experience has been in Python (2016- ). I have had some experience in Java (2019-) and am now currently in a Advanced Java course. For college, I am in the process of learning C++ and MIPS assembly.
 
 💞️ I’m looking to potentially collaborate on open source projects that can help me gain more coding experience
 
