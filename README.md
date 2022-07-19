@@ -9,3 +9,7 @@ Most of my coding experience has been in Python (2016- ). I have had some experi
 💞️ I’m looking to potentially collaborate on open source projects that can help me gain more coding experience
 
 📫 Discord: OrangeCoding2021#8620
+
+Leetcode: https://leetcode.com/OrangeCoding2021/
+
+Codingame: https://www.codingame.com/profile/96509bbfc5a669acc2fe80826f7115e90241394
